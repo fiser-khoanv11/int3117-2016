@@ -21,3 +21,7 @@
 
 # Test coverage
 ![test](https://raw.githubusercontent.com/fiser-khoanv11/int3117-2016/master/VuMinhChinh/BT3/images/Test.PNG)
+
+# So sánh
+- Với All-DU-Path thì bao quát nhiều trường hợp trùng lặp lại với nhau nên test case sẽ ít hơn
+- Không đầy đủ trường hợp như MCDC, nên dùng MCDC sẽ chặt chẽ hơn.
