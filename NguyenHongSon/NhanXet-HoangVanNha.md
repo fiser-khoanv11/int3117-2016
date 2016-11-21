@@ -9,8 +9,7 @@
 - Readme: Có kết quả độ bao phủ và đồ thị chương trình. 
 
 ##### Chưa được
-- Mã nguồn: Còn nhiều xuống dòng thừa
-- Readme: Cách trình bày còn sơ sài. Có hình ảnh nhưng chưa đưa vào readme. Chưa nêu cách tiến hành kiểm thử, lập bảng cụ thể. Còn nhiều lỗi chính tả, sai tên thuật ngữ (biên mình ?)
+- Readme: Còn lỗi chính tả
 
 ### Bài tập 2
 
@@ -21,15 +20,12 @@
 - Readme: Có ảnh kết quả kiểm thử.
 
 #### Chưa được
-- Readme: Trình bày sơ sài. Có hình ảnh nhưng chưa đưa vào readme. Chưa nêu cách tiến hành kiểm thử, lập bảng cụ thể.
+- Readme: Chưa nêu cách tiến hành kiểm thử, lập bảng cụ thể cho bài toán (chỉ nêu ví dụ  if (a && b)).
 
 ### Bài tập 3
 
 #### Được
 - Bài toán: Có mô tả chương trình.
-- Cách giải quyết: Có tìm được các đường DU.
+- Cách giải quyết: Có tìm được các đường DU, đã nêu ra test-case.
 - Mã nguồn: Trình bày rõ ràng, theo chuẩn.
-
-#### Chưa được
-- Cách giải quyết: Chưa có test-case
-- Readme: Trình bày sơ sài. Chưa có hình vẽ không có đánh dấu các đường DU, chưa chỉ ra các ca kiểm thử tương ứng
+- Readme Có ảnh kết quả kiểm thử.
