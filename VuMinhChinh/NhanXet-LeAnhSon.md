@@ -6,7 +6,8 @@
 - ReadMe chưa đạt yêu cầu, chưa nêu rõ cách giải quyết
 
 ### Bài tập 2
-- Chưa có
+- Đã bổ sung, đầy đủ code
+- Chưa thực hiện đúng mọi yêu cầu
 
 ### Bài tập 3
-- Chưa có 
+- Chưa đúng yêu cầu
